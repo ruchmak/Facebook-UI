@@ -1,0 +1,109 @@
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: 'Lato', sans-serif;
+    margin-top: 0px;
+    
+}
+
+#menu {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    
+}
+
+#header {
+    background-image: linear-gradient(#4e69a2, #3b5998 50%);
+    height: 65px;
+    color: white;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#brand-name {
+    font-weight: 500px;
+    font-size: 50px;
+
+}
+
+#menu a {
+    color: grey;
+    text-decoration: none;
+}
+
+#content {
+    background-image: linear-gradient(white, rgb(211, 216, 232));
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+ 
+}
+
+#column-1 {
+    width: 50%;
+}
+
+#column-2 {
+    line-height: 1.5;
+    padding-left: 50px;
+    
+}
+
+.quotes {
+    font: inherit;
+    font-size: 20px;
+    font-weight: 700;
+    color: #0e385f;    
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    word-spacing: -1px;
+    margin-right: 70px;
+}
+
+img {
+   width: 537px;
+   height: 195px;
+   
+}
+
+.post-title {
+    font: inherit;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.post {
+    font-size: 19px;
+    padding-bottom: 15px;
+    margin-top: 5px;
+
+
+}
+
+#nama-depan {
+    margin-right: 15px;
+}
+
+#nama-lengkap {
+    width: 100%;
+    margin-right: 0px;
+}
+
+#handphone {
+    width: 100%;
+    margin-top: 5px;
+}
+
+#password { 
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+input[type=""] {
+    
+}
